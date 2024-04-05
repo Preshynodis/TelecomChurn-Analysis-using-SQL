@@ -35,7 +35,7 @@ From the analysis carried out, spme of the insights below were generated;
 8. Enable Seamless Payment Experience:Based on the analysis, 72% of churned customers used bank withdrawal mode of payment. This process can be streamlined by optimizing the user interface and reducing the number of steps required, making the experience smoother and more user-friendly. 
 
 ## Limitations
-Some columns (features) in data contained over 70% missing values, which could be important features in machine learning aspect to identify and predict the churn status of cusotmers who just joined the company. 
+Some features in data contained over 60% missing values (Churn_category, customer status and Churn_reasons), which could be important features in machine learning aspect to identify and predict the churn status of cusotmers who just joined the company. 
 
 ## Conclusions
 By implementing these strategies, a telecommunication company can improve customer retention among customers. It is important they are also continuously monitored to adapt to evolving customer needs and strategies.
